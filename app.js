@@ -215,7 +215,7 @@ const QUESTIONS = [
    2. КОНФИГУРАЦИЯ
 ════════════════════════════════════════════════════════════ */
 
-const GOOGLE_SCRIPT_URL = 'YOUR_DEPLOYED_APPS_SCRIPT_URL'; // Сюда вставите новую ссылку
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxARdKrpWuvHCzNb1KcNHCeSBDBUUIhlPrdLgP0OVSc__uvLSJbiR11H8dkMwd5j-xa/exec'; // Сюда вставите новую ссылку
 
 /** Порог прохождения: 85% = 17 правильных из 20 */
 const PASS_THRESHOLD = 0.85;
